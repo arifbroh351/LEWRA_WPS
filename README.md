@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35F700&background=3C8BFF00&random=false&width=435&lines=Thanks+for+using+LEWRA_WPS;Don't+forget+to+star+the+repo!;Created+by+Arif+Broh+👨‍💻)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.postimg.cc/s2PTvxxG/wifihack4.jpg" width="300" />
+  <img src="https://i.postimg.cc/s2PTvxxG/wifihack4.jpg" width="600" />
 </p>
 
 ## ⚠️ Disclaimer
