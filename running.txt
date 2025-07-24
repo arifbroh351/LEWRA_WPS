@@ -1,0 +1,7 @@
+sudo python LEWRA_WPS/SHOT_V1.py -i wlan0 -K
+
+
+sudo python LEWRA_WPS/SHOT_V2.py -i wlan0 -K
+
+
+sudo python LEWRA_WPS/SHOT_V3.py -i wlan0 -K
