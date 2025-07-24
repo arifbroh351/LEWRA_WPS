@@ -49,7 +49,7 @@ pkg update && pkg upgrade -y
 pkg install git tsu python wpa-supplicant pixiewps iw -y
 git clone https://github.com/arifbroh351/LEWRA_WPS
 cd LEWRA_WPS
-sudo python LEWRA_WPS.py -i wlan0 -K
+sudo python SHOT_V2.py -i wlan0 -K
 ```
 
 ---
@@ -57,21 +57,21 @@ sudo python LEWRA_WPS.py -i wlan0 -K
 ## 🧪 Usage
 
 ```bash
-python LEWRA_WPS.py [options]
+python SHOT_V2.py [options]
 ```
 
 ### Basic Examples:
 - Start Pixie Dust attack:
   ```bash
-  sudo python LEWRA_WPS.py -i wlan0 -K
+  sudo python SHOT_V2.py -i wlan0 -K
   ```
 - Brute-force with known PIN:
   ```bash
-  sudo python LEWRA_WPS.py -i wlan0 -p 12345670 -B
+  sudo python SHOT_V2.py -i wlan0 -p 12345670 -B
   ```
 - Push-button WPS connect:
   ```bash
-  sudo python LEWRA_WPS.py -i wlan0 --pbc
+  sudo python SHOT_V2.py -i wlan0 --pbc
   ```
 
 ---
