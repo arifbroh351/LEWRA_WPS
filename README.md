@@ -57,21 +57,21 @@ sudo python SHOT_V2.py -i wlan0 -K
 ## 🧪 Usage
 
 ```bash
-python SHOT_V2.py [options]
+python LEWRA_WPS/SHOT_V2.py [options]
 ```
 
 ### Basic Examples:
 - Start Pixie Dust attack:
   ```bash
-  sudo python SHOT_V2.py -i wlan0 -K
+  sudo python LEWRA_WPS/SHOT_V2.py -i wlan0 -K
   ```
 - Brute-force with known PIN:
   ```bash
-  sudo python SHOT_V2.py -i wlan0 -p 12345670 -B
+  sudo python LEWRA_WPS/SHOT_V2.py -i wlan0 -p 12345670 -B
   ```
 - Push-button WPS connect:
   ```bash
-  sudo python SHOT_V2.py -i wlan0 --pbc
+  sudo python LEWRA_WPS/SHOT_V2.py -i wlan0 --pbc
   ```
 
 ---
